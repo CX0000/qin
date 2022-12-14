@@ -1,0 +1,251 @@
+2022-11-23 16:11:52,389 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x00000252CDC0B8E0>，sheet页面<xlrd.sheet.Sheet object at 0x00000252CDC327F0>打开成功
+2022-11-23 16:11:52,390 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 16:11:52,390 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 16:11:52,390 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 16:11:52,391 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:11:52,391 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:11:52,391 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 16:11:52,391 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 16:12:05,197 - basePage.py:[35] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-23 16:12:05,370 - basePage.py:[50] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-23 16:12:05,532 - basePage.py:[66] - [INFO] - 输入内容成功！
+2022-11-23 16:12:05,574 - basePage.py:[50] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-23 16:12:05,698 - basePage.py:[66] - [INFO] - 输入内容成功！
+2022-11-23 16:12:05,730 - basePage.py:[50] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-23 16:12:05,818 - basePage.py:[108] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-23 16:12:15,986 - basePage.py:[46] - [ERROR] - 元素定位失败，错误信息是：Message: 
+,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+Traceback (most recent call last):
+  File "D:\pythonCoding\pythonProject\webAutoProj4\demo\pageObj\basePage.py", line 42, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoproject\.idea\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-23 16:12:15,990 - basePage.py:[104] - [ERROR] - 元素('css selector', '.ant-modal-confirm-btns>button')点击失败，原因是：'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "D:\pythonCoding\pythonProject\webAutoProj4\demo\pageObj\basePage.py", line 101, in doClick
+    ele.click()
+AttributeError: 'NoneType' object has no attribute 'click'
+2022-11-23 16:52:58,548 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001F308C5BE50>，sheet页面<xlrd.sheet.Sheet object at 0x000001F308C9C9A0>打开成功
+2022-11-23 16:52:58,549 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 16:52:58,549 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 16:52:58,550 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 16:52:58,550 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:52:58,550 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:52:58,551 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 16:52:58,551 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 16:53:28,487 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000002F324E6BFD0>，sheet页面<xlrd.sheet.Sheet object at 0x000002F324EABB20>打开成功
+2022-11-23 16:53:28,487 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 16:53:28,488 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 16:53:28,488 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 16:53:28,488 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:53:28,488 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:53:28,489 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 16:53:28,489 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 16:53:32,794 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x0000013C74903EE0>，sheet页面<xlrd.sheet.Sheet object at 0x0000013C74942A30>打开成功
+2022-11-23 16:53:32,794 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 16:53:32,795 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 16:53:32,795 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 16:53:32,795 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:53:32,796 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:53:32,796 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 16:53:32,796 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 16:53:37,817 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x0000015C49CB3EE0>，sheet页面<xlrd.sheet.Sheet object at 0x0000015C49CF2A30>打开成功
+2022-11-23 16:53:37,818 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 16:53:37,818 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 16:53:37,818 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 16:53:37,819 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:53:37,819 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:53:37,819 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 16:53:37,820 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 16:55:14,472 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001749CFA60A0>，sheet页面<xlrd.sheet.Sheet object at 0x000001749CFE0BB0>打开成功
+2022-11-23 16:55:14,473 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 16:55:14,473 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 16:55:14,473 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 16:55:14,473 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:55:14,474 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:55:14,474 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 16:55:14,475 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 16:59:16,452 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001967ED53EE0>，sheet页面<xlrd.sheet.Sheet object at 0x000001967ED92A30>打开成功
+2022-11-23 16:59:16,453 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 16:59:16,453 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 16:59:16,453 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 16:59:16,454 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:59:16,454 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 16:59:16,455 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 16:59:16,455 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 17:00:09,173 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x0000022A11C160A0>，sheet页面<xlrd.sheet.Sheet object at 0x0000022A11C50BB0>打开成功
+2022-11-23 17:00:09,174 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 17:00:09,174 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 17:00:09,174 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 17:00:09,174 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:00:09,175 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:00:09,175 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 17:00:09,175 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 17:01:49,351 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x0000024378C3AFD0>，sheet页面<xlrd.sheet.Sheet object at 0x0000024378C7BB20>打开成功
+2022-11-23 17:01:49,352 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 17:01:49,352 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 17:01:49,352 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 17:01:49,352 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:01:49,352 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:01:49,353 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 17:01:49,353 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 17:02:31,876 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001E34499AFD0>，sheet页面<xlrd.sheet.Sheet object at 0x000001E3449DAB20>打开成功
+2022-11-23 17:02:31,877 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 17:02:31,877 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 17:02:31,877 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 17:02:31,878 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:02:31,878 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:02:31,878 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 17:02:31,878 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 17:05:10,678 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000002CAB82D3EE0>，sheet页面<xlrd.sheet.Sheet object at 0x000002CAB8312A30>打开成功
+2022-11-23 17:05:10,678 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 17:05:10,679 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 17:05:10,679 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 17:05:10,679 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:05:10,679 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:05:10,680 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 17:05:10,680 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 17:05:43,020 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001BF5168DE50>，sheet页面<xlrd.sheet.Sheet object at 0x000001BF516CB9A0>打开成功
+2022-11-23 17:05:43,020 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 17:05:43,020 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 17:05:43,021 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 17:05:43,021 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:05:43,021 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:05:43,021 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 17:05:43,021 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 17:06:22,671 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001B33FEB0CA0>，sheet页面<xlrd.sheet.Sheet object at 0x000001B33FEF2790>打开成功
+2022-11-23 17:06:22,672 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 17:06:22,672 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 17:06:22,672 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 17:06:22,672 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:06:22,673 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:06:22,673 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 17:06:22,673 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 17:06:54,450 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001B7BA6E3EE0>，sheet页面<xlrd.sheet.Sheet object at 0x000001B7BA722A30>打开成功
+2022-11-23 17:06:54,451 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 17:06:54,451 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 17:06:54,452 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 17:06:54,452 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:06:54,452 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:06:54,452 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 17:06:54,452 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 17:07:39,376 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000002018863AFD0>，sheet页面<xlrd.sheet.Sheet object at 0x000002018867BB20>打开成功
+2022-11-23 17:07:39,376 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 17:07:39,377 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 17:07:39,377 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 17:07:39,377 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:07:39,378 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:07:39,378 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 17:07:39,378 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 17:07:52,662 - basePage.py:[35] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-23 17:07:52,715 - basePage.py:[50] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-23 17:07:52,868 - basePage.py:[66] - [INFO] - 输入内容成功！
+2022-11-23 17:07:52,909 - basePage.py:[50] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-23 17:07:53,027 - basePage.py:[66] - [INFO] - 输入内容成功！
+2022-11-23 17:07:53,066 - basePage.py:[50] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-23 17:07:53,152 - basePage.py:[108] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-23 17:09:44,115 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001B47AB01160>，sheet页面<xlrd.sheet.Sheet object at 0x000001B47AB3BC70>打开成功
+2022-11-23 17:09:44,115 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 17:09:44,116 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 17:09:44,116 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 17:09:44,116 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:09:44,116 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:09:44,117 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 17:09:44,117 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 17:09:58,947 - basePage.py:[35] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-23 17:09:59,003 - basePage.py:[50] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-23 17:09:59,072 - basePage.py:[66] - [INFO] - 输入内容成功！
+2022-11-23 17:09:59,110 - basePage.py:[50] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-23 17:09:59,176 - basePage.py:[66] - [INFO] - 输入内容成功！
+2022-11-23 17:09:59,213 - basePage.py:[50] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-23 17:09:59,287 - basePage.py:[108] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-23 17:10:27,900 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x0000027A08233F10>，sheet页面<xlrd.sheet.Sheet object at 0x0000027A08272A60>打开成功
+2022-11-23 17:10:27,900 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 17:10:27,900 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 17:10:27,900 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 17:10:27,900 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:10:27,901 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 17:10:27,901 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 17:10:27,901 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 17:10:52,839 - basePage.py:[35] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-23 17:10:52,898 - basePage.py:[50] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-23 17:10:52,963 - basePage.py:[66] - [INFO] - 输入内容成功！
+2022-11-23 17:10:53,004 - basePage.py:[50] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-23 17:10:53,082 - basePage.py:[66] - [INFO] - 输入内容成功！
+2022-11-23 17:10:53,115 - basePage.py:[50] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-23 17:10:53,205 - basePage.py:[108] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-23 17:10:54,710 - basePage.py:[35] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-23 17:10:54,747 - basePage.py:[50] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-23 17:10:54,987 - basePage.py:[66] - [INFO] - 输入内容成功！
+2022-11-23 17:10:55,025 - basePage.py:[50] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-23 17:10:55,181 - basePage.py:[66] - [INFO] - 输入内容成功！
+2022-11-23 17:10:55,208 - basePage.py:[50] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-23 17:10:55,486 - basePage.py:[108] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-23 22:55:15,208 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x0000021589103280>，sheet页面<xlrd.sheet.Sheet object at 0x000002158913CC70>打开成功
+2022-11-23 22:55:15,209 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 22:55:15,209 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 22:55:15,210 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 22:55:15,210 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 22:55:15,210 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 22:55:15,211 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 22:55:15,211 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 22:55:28,743 - basePage.py:[36] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-23 22:55:28,817 - basePage.py:[51] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-23 22:55:28,944 - basePage.py:[67] - [INFO] - 输入内容成功！
+2022-11-23 22:55:28,986 - basePage.py:[51] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-23 22:55:29,099 - basePage.py:[67] - [INFO] - 输入内容成功！
+2022-11-23 22:55:29,130 - basePage.py:[51] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-23 22:55:29,212 - basePage.py:[109] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-23 22:55:40,622 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001EEAEE270D0>，sheet页面<xlrd.sheet.Sheet object at 0x000001EEAEE61BE0>打开成功
+2022-11-23 22:55:40,623 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 22:55:40,623 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 22:55:40,623 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 22:55:40,624 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 22:55:40,624 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 22:55:40,624 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 22:55:40,625 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 22:55:57,400 - basePage.py:[36] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-23 22:55:57,476 - basePage.py:[51] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-23 22:55:57,541 - basePage.py:[67] - [INFO] - 输入内容成功！
+2022-11-23 22:55:57,578 - basePage.py:[51] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-23 22:55:57,646 - basePage.py:[67] - [INFO] - 输入内容成功！
+2022-11-23 22:55:57,676 - basePage.py:[51] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-23 22:55:57,749 - basePage.py:[109] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-23 22:55:58,902 - basePage.py:[36] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-23 22:55:59,084 - basePage.py:[51] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-23 22:55:59,236 - basePage.py:[67] - [INFO] - 输入内容成功！
+2022-11-23 22:55:59,271 - basePage.py:[51] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-23 22:55:59,417 - basePage.py:[67] - [INFO] - 输入内容成功！
+2022-11-23 22:55:59,442 - basePage.py:[51] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-23 22:55:59,719 - basePage.py:[109] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-23 22:56:24,383 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001AD3FD3B8E0>，sheet页面<xlrd.sheet.Sheet object at 0x000001AD3FD637F0>打开成功
+2022-11-23 22:56:24,384 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-23 22:56:24,384 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-23 22:56:24,384 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：[type="submit"]
+2022-11-23 22:56:24,385 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 22:56:24,385 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 22:56:24,385 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-23 22:56:24,385 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-23 22:56:50,230 - basePage.py:[36] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-23 22:56:50,564 - basePage.py:[51] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-23 22:56:50,833 - basePage.py:[67] - [INFO] - 输入内容成功！
+2022-11-23 22:56:50,877 - basePage.py:[51] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-23 22:56:51,059 - basePage.py:[67] - [INFO] - 输入内容成功！
+2022-11-23 22:56:51,098 - basePage.py:[51] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-23 22:56:51,337 - basePage.py:[109] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-23 22:57:01,522 - basePage.py:[47] - [ERROR] - 元素定位失败，错误信息是：Message: 
+,该元素是：('css selector', '.ant-modal-confirm-btns>button')
+Traceback (most recent call last):
+  File "D:\pythonCoding\pythonProject\webAutoProj4\demo\pageObj\basePage.py", line 43, in findElement
+    ele=WebDriverWait(self.driver,5,0.1).\
+  File "D:\pythonCoding\webAutoproject\.idea\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-11-23 22:57:01,524 - basePage.py:[105] - [ERROR] - 元素('css selector', '.ant-modal-confirm-btns>button')点击失败，原因是：'NoneType' object has no attribute 'click'
+Traceback (most recent call last):
+  File "D:\pythonCoding\pythonProject\webAutoProj4\demo\pageObj\basePage.py", line 102, in doClick
+    ele.click()
+AttributeError: 'NoneType' object has no attribute 'click'

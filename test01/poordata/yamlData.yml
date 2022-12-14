@@ -1,0 +1,8 @@
+-
+  -
+    name: zhangsan
+    nam1: lisi
+  -
+    - student: 腾讯
+    - sex: 男
+    - age: 20

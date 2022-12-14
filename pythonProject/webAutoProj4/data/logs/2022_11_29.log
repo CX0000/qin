@@ -1,0 +1,460 @@
+2022-11-29 09:22:03,072 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001F4457F5250>，sheet页面<xlrd.sheet.Sheet object at 0x000001F44582CD60>打开成功
+2022-11-29 09:22:03,079 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001F44575BA60>，sheet页面<xlrd.sheet.Sheet object at 0x000001F44581F3D0>打开成功
+2022-11-29 09:22:03,079 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-29 09:22:03,079 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-29 09:22:03,080 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：//form/nz-form-item[4]/button
+2022-11-29 09:22:03,080 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:22:03,080 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:22:03,080 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-29 09:22:03,080 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-29 09:22:03,081 - doExcel.py:[41] - [INFO] - 单元格值(1,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:22:03,081 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：1，2|1，3
+2022-11-29 09:22:03,081 - doExcel.py:[41] - [INFO] - 单元格值(2,2)文件获取成功，值是：
+2022-11-29 09:22:03,081 - doExcel.py:[41] - [INFO] - 单元格值(2,3)文件获取成功，值是：
+2022-11-29 09:22:03,082 - doExcel.py:[41] - [INFO] - 单元格值(3,2)文件获取成功，值是：
+2022-11-29 09:22:03,082 - doExcel.py:[41] - [INFO] - 单元格值(3,3)文件获取成功，值是：2000zhang
+2022-11-29 09:22:03,082 - doExcel.py:[41] - [INFO] - 单元格值(4,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:22:03,082 - doExcel.py:[41] - [INFO] - 单元格值(4,3)文件获取成功，值是：
+2022-11-29 09:22:03,082 - doExcel.py:[41] - [INFO] - 单元格值(5,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:22:03,082 - doExcel.py:[41] - [INFO] - 单元格值(5,3)文件获取成功，值是：2000zhang
+2022-11-29 09:22:03,082 - doExcel.py:[41] - [INFO] - 单元格值(6,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:22:03,082 - doExcel.py:[41] - [INFO] - 单元格值(6,3)文件获取成功，值是：2000zha
+2022-11-29 09:22:03,083 - doExcel.py:[41] - [INFO] - 单元格值(7,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:22:03,083 - doExcel.py:[41] - [INFO] - 单元格值(7,3)文件获取成功，值是：2001zha
+2022-11-29 09:22:03,083 - doExcel.py:[41] - [INFO] - 单元格值(8,2)文件获取成功，值是：115555211546789
+2022-11-29 09:22:03,083 - doExcel.py:[41] - [INFO] - 单元格值(8,3)文件获取成功，值是：2000zhang
+2022-11-29 09:22:03,083 - doExcel.py:[41] - [INFO] - 单元格值(9,2)文件获取成功，值是：115555211.0
+2022-11-29 09:22:03,083 - doExcel.py:[41] - [INFO] - 单元格值(9,3)文件获取成功，值是：2000zhang
+2022-11-29 09:22:03,083 - doExcel.py:[41] - [INFO] - 单元格值(10,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:22:03,084 - doExcel.py:[41] - [INFO] - 单元格值(10,3)文件获取成功，值是：200000000002144322523535zhang
+2022-11-29 09:22:03,084 - doExcel.py:[41] - [INFO] - 单元格值(11,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:22:03,084 - doExcel.py:[41] - [INFO] - 单元格值(11,3)文件获取成功，值是：1zhan
+2022-11-29 09:22:34,233 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:22:34,304 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:22:34,566 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:22:34,639 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:22:34,826 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:22:34,868 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:22:34,910 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:22:39,939 - test_login.py:[38] - [INFO] - 断言成功
+2022-11-29 09:22:40,158 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:22:40,197 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-29 09:22:43,665 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//div[@class='userInfo-popPanel']/div[4]")
+2022-11-29 09:22:43,902 - basePage.py:[145] - [INFO] - 元素('xpath', "//div[@class='userInfo-popPanel']/div[4]")点击成功！
+2022-11-29 09:22:44,046 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')
+2022-11-29 09:22:44,133 - basePage.py:[145] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')点击成功！
+2022-11-29 09:29:35,465 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x00000142814A5250>，sheet页面<xlrd.sheet.Sheet object at 0x00000142814DBD60>打开成功
+2022-11-29 09:29:35,475 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x00000142FFFEBA60>，sheet页面<xlrd.sheet.Sheet object at 0x00000142814CE310>打开成功
+2022-11-29 09:29:35,475 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-29 09:29:35,475 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-29 09:29:35,476 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：//form/nz-form-item[4]/button
+2022-11-29 09:29:35,476 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:29:35,476 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:29:35,476 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-29 09:29:35,476 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-29 09:29:35,476 - doExcel.py:[41] - [INFO] - 单元格值(1,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:29:35,476 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：1，2|1，3
+2022-11-29 09:29:35,476 - doExcel.py:[41] - [INFO] - 单元格值(2,2)文件获取成功，值是：
+2022-11-29 09:29:35,476 - doExcel.py:[41] - [INFO] - 单元格值(2,3)文件获取成功，值是：
+2022-11-29 09:29:35,477 - doExcel.py:[41] - [INFO] - 单元格值(3,2)文件获取成功，值是：
+2022-11-29 09:29:35,477 - doExcel.py:[41] - [INFO] - 单元格值(3,3)文件获取成功，值是：2000zhang
+2022-11-29 09:29:35,477 - doExcel.py:[41] - [INFO] - 单元格值(4,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:29:35,477 - doExcel.py:[41] - [INFO] - 单元格值(4,3)文件获取成功，值是：
+2022-11-29 09:29:35,477 - doExcel.py:[41] - [INFO] - 单元格值(5,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:29:35,477 - doExcel.py:[41] - [INFO] - 单元格值(5,3)文件获取成功，值是：2000zhang
+2022-11-29 09:29:35,477 - doExcel.py:[41] - [INFO] - 单元格值(6,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:29:35,477 - doExcel.py:[41] - [INFO] - 单元格值(6,3)文件获取成功，值是：2000zha
+2022-11-29 09:29:35,477 - doExcel.py:[41] - [INFO] - 单元格值(7,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:29:35,478 - doExcel.py:[41] - [INFO] - 单元格值(7,3)文件获取成功，值是：2001zha
+2022-11-29 09:29:35,478 - doExcel.py:[41] - [INFO] - 单元格值(8,2)文件获取成功，值是：115555211546789
+2022-11-29 09:29:35,478 - doExcel.py:[41] - [INFO] - 单元格值(8,3)文件获取成功，值是：2000zhang
+2022-11-29 09:29:35,478 - doExcel.py:[41] - [INFO] - 单元格值(9,2)文件获取成功，值是：115555211.0
+2022-11-29 09:29:35,478 - doExcel.py:[41] - [INFO] - 单元格值(9,3)文件获取成功，值是：2000zhang
+2022-11-29 09:29:35,478 - doExcel.py:[41] - [INFO] - 单元格值(10,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:29:35,478 - doExcel.py:[41] - [INFO] - 单元格值(10,3)文件获取成功，值是：200000000002144322523535zhang
+2022-11-29 09:29:35,478 - doExcel.py:[41] - [INFO] - 单元格值(11,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:29:35,478 - doExcel.py:[41] - [INFO] - 单元格值(11,3)文件获取成功，值是：1zhan
+2022-11-29 09:30:08,448 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:30:08,525 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:30:08,596 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:30:08,636 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:30:08,706 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:30:08,767 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:30:08,795 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:30:10,851 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:30:10,872 - basePage.py:[113] - [INFO] - 文本获取成功，值是：请输入手机号码
+2022-11-29 09:30:10,873 - test_login.py:[57] - [INFO] - 断言成功
+2022-11-29 09:30:11,552 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:30:11,640 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:30:11,672 - basePage.py:[113] - [INFO] - 文本获取成功，值是：请输入6-20位账户密码
+2022-11-29 09:36:51,673 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001B4BF102E50>，sheet页面<xlrd.sheet.Sheet object at 0x000001B4BF13D9A0>打开成功
+2022-11-29 09:36:51,680 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001B4BF06F6A0>，sheet页面<xlrd.sheet.Sheet object at 0x000001B4BF124F10>打开成功
+2022-11-29 09:36:51,680 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-29 09:36:51,681 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-29 09:36:51,681 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：//form/nz-form-item[4]/button
+2022-11-29 09:36:51,682 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:36:51,682 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:36:51,682 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-29 09:36:51,682 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-29 09:36:51,684 - doExcel.py:[41] - [INFO] - 单元格值(1,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:36:51,684 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：1，2|1，3
+2022-11-29 09:36:51,685 - doExcel.py:[41] - [INFO] - 单元格值(2,2)文件获取成功，值是：
+2022-11-29 09:36:51,685 - doExcel.py:[41] - [INFO] - 单元格值(2,3)文件获取成功，值是：
+2022-11-29 09:36:51,685 - doExcel.py:[41] - [INFO] - 单元格值(3,2)文件获取成功，值是：
+2022-11-29 09:36:51,685 - doExcel.py:[41] - [INFO] - 单元格值(3,3)文件获取成功，值是：2000zhang
+2022-11-29 09:36:51,685 - doExcel.py:[41] - [INFO] - 单元格值(4,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:36:51,686 - doExcel.py:[41] - [INFO] - 单元格值(4,3)文件获取成功，值是：
+2022-11-29 09:36:51,686 - doExcel.py:[41] - [INFO] - 单元格值(5,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:36:51,686 - doExcel.py:[41] - [INFO] - 单元格值(5,3)文件获取成功，值是：2000zhang
+2022-11-29 09:36:51,686 - doExcel.py:[41] - [INFO] - 单元格值(6,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:36:51,686 - doExcel.py:[41] - [INFO] - 单元格值(6,3)文件获取成功，值是：2000zha
+2022-11-29 09:36:51,687 - doExcel.py:[41] - [INFO] - 单元格值(7,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:36:51,687 - doExcel.py:[41] - [INFO] - 单元格值(7,3)文件获取成功，值是：2001zha
+2022-11-29 09:36:51,687 - doExcel.py:[41] - [INFO] - 单元格值(8,2)文件获取成功，值是：115555211546789
+2022-11-29 09:36:51,687 - doExcel.py:[41] - [INFO] - 单元格值(8,3)文件获取成功，值是：2000zhang
+2022-11-29 09:36:51,687 - doExcel.py:[41] - [INFO] - 单元格值(9,2)文件获取成功，值是：115555211.0
+2022-11-29 09:36:51,688 - doExcel.py:[41] - [INFO] - 单元格值(9,3)文件获取成功，值是：2000zhang
+2022-11-29 09:36:51,688 - doExcel.py:[41] - [INFO] - 单元格值(10,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:36:51,688 - doExcel.py:[41] - [INFO] - 单元格值(10,3)文件获取成功，值是：200000000002144322523535zhang
+2022-11-29 09:36:51,688 - doExcel.py:[41] - [INFO] - 单元格值(11,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:36:51,688 - doExcel.py:[41] - [INFO] - 单元格值(11,3)文件获取成功，值是：1zhan
+2022-11-29 09:37:07,649 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:37:07,735 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:37:07,896 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:37:07,933 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:37:08,060 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:37:08,100 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:37:08,142 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:37:10,200 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:37:10,217 - basePage.py:[113] - [INFO] - 文本获取成功，值是：用户名或密码错误，请重新输入！
+2022-11-29 09:37:13,227 - test_login.py:[181] - [INFO] - 断言成功
+2022-11-29 09:37:13,713 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:37:16,764 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:37:16,853 - basePage.py:[145] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button')点击成功！
+2022-11-29 09:37:26,779 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:37:26,817 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:37:26,932 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:37:26,964 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:37:27,076 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:37:27,109 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:37:27,122 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:37:29,180 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:37:29,208 - basePage.py:[113] - [INFO] - 文本获取成功，值是：请输入手机号码
+2022-11-29 09:37:29,208 - test_login.py:[200] - [INFO] - 断言成功
+2022-11-29 09:37:29,730 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:37:35,882 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:37:35,939 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:37:36,082 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:37:36,129 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:37:36,323 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:37:36,365 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:37:36,390 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:37:38,424 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:37:38,445 - basePage.py:[113] - [INFO] - 文本获取成功，值是：用户名或密码错误，请重新输入！
+2022-11-29 09:37:38,445 - test_login.py:[216] - [INFO] - 断言成功
+2022-11-29 09:37:38,899 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:37:38,922 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:37:38,934 - basePage.py:[145] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button')点击成功！
+2022-11-29 09:37:44,995 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:37:45,037 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:37:45,158 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:37:45,185 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:37:45,291 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:37:45,322 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:37:45,341 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:37:47,395 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:37:47,416 - basePage.py:[113] - [INFO] - 文本获取成功，值是：请输入6-20位账户密码
+2022-11-29 09:37:47,416 - test_login.py:[233] - [INFO] - 断言成功
+2022-11-29 09:37:47,872 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:37:54,008 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:37:54,042 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:37:54,172 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:37:54,227 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:37:54,416 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:37:54,450 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:37:54,469 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:37:56,496 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:37:56,518 - basePage.py:[113] - [INFO] - 文本获取成功，值是：用户名或密码错误，请重新输入！
+2022-11-29 09:37:59,521 - test_login.py:[160] - [INFO] - 断言成功
+2022-11-29 09:37:59,962 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:38:03,012 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:38:03,133 - basePage.py:[145] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button')点击成功！
+2022-11-29 09:38:12,195 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:38:12,257 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:38:12,389 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:38:12,421 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:38:12,533 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:38:12,559 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:38:12,588 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:38:14,630 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:38:14,651 - basePage.py:[113] - [INFO] - 文本获取成功，值是：用户名或密码错误，请重新输入！
+2022-11-29 09:38:14,651 - test_login.py:[140] - [INFO] - 断言成功
+2022-11-29 09:38:15,108 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:38:15,133 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:38:15,144 - basePage.py:[145] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button')点击成功！
+2022-11-29 09:38:21,437 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:38:21,492 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:38:21,561 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:38:21,597 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:38:21,717 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:38:21,752 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:38:21,769 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:38:23,823 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:38:23,849 - basePage.py:[113] - [INFO] - 文本获取成功，值是：请输入手机号码
+2022-11-29 09:38:23,850 - test_login.py:[78] - [INFO] - 断言成功
+2022-11-29 09:38:24,326 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:38:30,605 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:38:30,670 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:38:30,805 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:38:30,844 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:38:30,915 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:38:30,952 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:38:30,987 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:38:38,035 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:38:38,053 - basePage.py:[113] - [INFO] - 文本获取成功，值是：请输入6-20位账户密码
+2022-11-29 09:38:38,053 - test_login.py:[100] - [INFO] - 断言成功
+2022-11-29 09:38:38,514 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:38:44,690 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:38:44,724 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:38:44,792 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:38:44,824 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:38:44,902 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:38:44,935 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:38:44,968 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:38:47,004 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:38:47,023 - basePage.py:[113] - [INFO] - 文本获取成功，值是：请输入手机号码
+2022-11-29 09:38:47,023 - test_login.py:[57] - [INFO] - 断言成功
+2022-11-29 09:38:47,519 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:38:47,541 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:38:47,564 - basePage.py:[113] - [INFO] - 文本获取成功，值是：请输入6-20位账户密码
+2022-11-29 09:38:53,929 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:38:53,969 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:38:54,105 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:38:54,140 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:38:54,285 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:38:54,315 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:38:54,342 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:38:59,368 - test_login.py:[38] - [INFO] - 断言成功
+2022-11-29 09:38:59,567 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:38:59,601 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-29 09:39:03,077 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//div[@class='userInfo-popPanel']/div[4]")
+2022-11-29 09:39:03,218 - basePage.py:[145] - [INFO] - 元素('xpath', "//div[@class='userInfo-popPanel']/div[4]")点击成功！
+2022-11-29 09:39:03,271 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')
+2022-11-29 09:39:03,325 - basePage.py:[145] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')点击成功！
+2022-11-29 09:39:12,384 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:39:12,449 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:39:12,577 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:39:12,613 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:39:12,729 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:39:12,770 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:39:12,789 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:39:17,853 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:39:17,874 - basePage.py:[113] - [INFO] - 文本获取成功，值是：用户名或密码错误，请重新输入！
+2022-11-29 09:39:17,874 - test_login.py:[121] - [INFO] - 断言成功
+2022-11-29 09:39:18,326 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:39:18,357 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:39:18,430 - basePage.py:[145] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button')点击成功！
+2022-11-29 09:40:14,510 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001F4C9B1C1C0>，sheet页面<xlrd.sheet.Sheet object at 0x000001F4C9B52CD0>打开成功
+2022-11-29 09:40:14,516 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001F4C9A869D0>，sheet页面<xlrd.sheet.Sheet object at 0x000001F4C9B1C280>打开成功
+2022-11-29 09:40:14,516 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-29 09:40:14,516 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-29 09:40:14,517 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：//form/nz-form-item[4]/button
+2022-11-29 09:40:14,517 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:40:14,517 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:40:14,517 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-29 09:40:14,517 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-29 09:40:14,517 - doExcel.py:[41] - [INFO] - 单元格值(1,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:40:14,517 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：1，2|1，3
+2022-11-29 09:40:14,517 - doExcel.py:[41] - [INFO] - 单元格值(2,2)文件获取成功，值是：
+2022-11-29 09:40:14,517 - doExcel.py:[41] - [INFO] - 单元格值(2,3)文件获取成功，值是：
+2022-11-29 09:40:14,517 - doExcel.py:[41] - [INFO] - 单元格值(3,2)文件获取成功，值是：
+2022-11-29 09:40:14,517 - doExcel.py:[41] - [INFO] - 单元格值(3,3)文件获取成功，值是：2000zhang
+2022-11-29 09:40:14,518 - doExcel.py:[41] - [INFO] - 单元格值(4,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:40:14,518 - doExcel.py:[41] - [INFO] - 单元格值(4,3)文件获取成功，值是：
+2022-11-29 09:40:14,518 - doExcel.py:[41] - [INFO] - 单元格值(5,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:40:14,518 - doExcel.py:[41] - [INFO] - 单元格值(5,3)文件获取成功，值是：2000zhang
+2022-11-29 09:40:14,518 - doExcel.py:[41] - [INFO] - 单元格值(6,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:40:14,518 - doExcel.py:[41] - [INFO] - 单元格值(6,3)文件获取成功，值是：2000zha
+2022-11-29 09:40:14,518 - doExcel.py:[41] - [INFO] - 单元格值(7,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:40:14,518 - doExcel.py:[41] - [INFO] - 单元格值(7,3)文件获取成功，值是：2001zha
+2022-11-29 09:40:14,518 - doExcel.py:[41] - [INFO] - 单元格值(8,2)文件获取成功，值是：115555211546789
+2022-11-29 09:40:14,518 - doExcel.py:[41] - [INFO] - 单元格值(8,3)文件获取成功，值是：2000zhang
+2022-11-29 09:40:14,518 - doExcel.py:[41] - [INFO] - 单元格值(9,2)文件获取成功，值是：115555211.0
+2022-11-29 09:40:14,519 - doExcel.py:[41] - [INFO] - 单元格值(9,3)文件获取成功，值是：2000zhang
+2022-11-29 09:40:14,519 - doExcel.py:[41] - [INFO] - 单元格值(10,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:40:14,519 - doExcel.py:[41] - [INFO] - 单元格值(10,3)文件获取成功，值是：200000000002144322523535zhang
+2022-11-29 09:40:14,519 - doExcel.py:[41] - [INFO] - 单元格值(11,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:40:14,519 - doExcel.py:[41] - [INFO] - 单元格值(11,3)文件获取成功，值是：1zhan
+2022-11-29 09:40:26,645 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:40:26,704 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:40:26,810 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:40:26,855 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:40:26,940 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:40:26,977 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:40:26,988 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:40:29,042 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:40:29,069 - basePage.py:[113] - [INFO] - 文本获取成功，值是：请输入6-20位账户密码
+2022-11-29 09:40:29,069 - test_login.py:[233] - [INFO] - 断言成功
+2022-11-29 09:40:29,671 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:40:53,350 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001F2DC4DC1C0>，sheet页面<xlrd.sheet.Sheet object at 0x000001F2DC512CD0>打开成功
+2022-11-29 09:40:53,356 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000001F2DC4469D0>，sheet页面<xlrd.sheet.Sheet object at 0x000001F2DC5051F0>打开成功
+2022-11-29 09:40:53,357 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-29 09:40:53,357 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-29 09:40:53,357 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：//form/nz-form-item[4]/button
+2022-11-29 09:40:53,357 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:40:53,357 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:40:53,357 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-29 09:40:53,357 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-29 09:40:53,357 - doExcel.py:[41] - [INFO] - 单元格值(1,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:40:53,358 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：1，2|1，3
+2022-11-29 09:40:53,358 - doExcel.py:[41] - [INFO] - 单元格值(2,2)文件获取成功，值是：
+2022-11-29 09:40:53,358 - doExcel.py:[41] - [INFO] - 单元格值(2,3)文件获取成功，值是：
+2022-11-29 09:40:53,358 - doExcel.py:[41] - [INFO] - 单元格值(3,2)文件获取成功，值是：
+2022-11-29 09:40:53,358 - doExcel.py:[41] - [INFO] - 单元格值(3,3)文件获取成功，值是：2000zhang
+2022-11-29 09:40:53,358 - doExcel.py:[41] - [INFO] - 单元格值(4,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:40:53,358 - doExcel.py:[41] - [INFO] - 单元格值(4,3)文件获取成功，值是：
+2022-11-29 09:40:53,358 - doExcel.py:[41] - [INFO] - 单元格值(5,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:40:53,358 - doExcel.py:[41] - [INFO] - 单元格值(5,3)文件获取成功，值是：2000zhang
+2022-11-29 09:40:53,358 - doExcel.py:[41] - [INFO] - 单元格值(6,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:40:53,359 - doExcel.py:[41] - [INFO] - 单元格值(6,3)文件获取成功，值是：2000zha
+2022-11-29 09:40:53,359 - doExcel.py:[41] - [INFO] - 单元格值(7,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:40:53,359 - doExcel.py:[41] - [INFO] - 单元格值(7,3)文件获取成功，值是：2001zha
+2022-11-29 09:40:53,359 - doExcel.py:[41] - [INFO] - 单元格值(8,2)文件获取成功，值是：115555211546789
+2022-11-29 09:40:53,359 - doExcel.py:[41] - [INFO] - 单元格值(8,3)文件获取成功，值是：2000zhang
+2022-11-29 09:40:53,359 - doExcel.py:[41] - [INFO] - 单元格值(9,2)文件获取成功，值是：115555211.0
+2022-11-29 09:40:53,359 - doExcel.py:[41] - [INFO] - 单元格值(9,3)文件获取成功，值是：2000zhang
+2022-11-29 09:40:53,359 - doExcel.py:[41] - [INFO] - 单元格值(10,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:40:53,359 - doExcel.py:[41] - [INFO] - 单元格值(10,3)文件获取成功，值是：200000000002144322523535zhang
+2022-11-29 09:40:53,359 - doExcel.py:[41] - [INFO] - 单元格值(11,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:40:53,360 - doExcel.py:[41] - [INFO] - 单元格值(11,3)文件获取成功，值是：1zhan
+2022-11-29 09:41:17,982 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:41:25,599 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x0000023EF373C1C0>，sheet页面<xlrd.sheet.Sheet object at 0x0000023EF3772CD0>打开成功
+2022-11-29 09:41:25,612 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x0000023EF36A69D0>，sheet页面<xlrd.sheet.Sheet object at 0x0000023EF37653A0>打开成功
+2022-11-29 09:41:25,612 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-29 09:41:25,612 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-29 09:41:25,612 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：//form/nz-form-item[4]/button
+2022-11-29 09:41:25,612 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:41:25,613 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:41:25,613 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-29 09:41:25,613 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-29 09:41:25,613 - doExcel.py:[41] - [INFO] - 单元格值(1,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:41:25,613 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：1，2|1，3
+2022-11-29 09:41:25,613 - doExcel.py:[41] - [INFO] - 单元格值(2,2)文件获取成功，值是：
+2022-11-29 09:41:25,614 - doExcel.py:[41] - [INFO] - 单元格值(2,3)文件获取成功，值是：
+2022-11-29 09:41:25,614 - doExcel.py:[41] - [INFO] - 单元格值(3,2)文件获取成功，值是：
+2022-11-29 09:41:25,614 - doExcel.py:[41] - [INFO] - 单元格值(3,3)文件获取成功，值是：2000zhang
+2022-11-29 09:41:25,614 - doExcel.py:[41] - [INFO] - 单元格值(4,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:41:25,614 - doExcel.py:[41] - [INFO] - 单元格值(4,3)文件获取成功，值是：
+2022-11-29 09:41:25,615 - doExcel.py:[41] - [INFO] - 单元格值(5,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:41:25,615 - doExcel.py:[41] - [INFO] - 单元格值(5,3)文件获取成功，值是：2000zhang
+2022-11-29 09:41:25,615 - doExcel.py:[41] - [INFO] - 单元格值(6,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:41:25,615 - doExcel.py:[41] - [INFO] - 单元格值(6,3)文件获取成功，值是：2000zha
+2022-11-29 09:41:25,615 - doExcel.py:[41] - [INFO] - 单元格值(7,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:41:25,615 - doExcel.py:[41] - [INFO] - 单元格值(7,3)文件获取成功，值是：2001zha
+2022-11-29 09:41:25,615 - doExcel.py:[41] - [INFO] - 单元格值(8,2)文件获取成功，值是：115555211546789
+2022-11-29 09:41:25,615 - doExcel.py:[41] - [INFO] - 单元格值(8,3)文件获取成功，值是：2000zhang
+2022-11-29 09:41:25,615 - doExcel.py:[41] - [INFO] - 单元格值(9,2)文件获取成功，值是：115555211.0
+2022-11-29 09:41:25,616 - doExcel.py:[41] - [INFO] - 单元格值(9,3)文件获取成功，值是：2000zhang
+2022-11-29 09:41:25,616 - doExcel.py:[41] - [INFO] - 单元格值(10,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:41:25,616 - doExcel.py:[41] - [INFO] - 单元格值(10,3)文件获取成功，值是：200000000002144322523535zhang
+2022-11-29 09:41:25,616 - doExcel.py:[41] - [INFO] - 单元格值(11,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:41:25,616 - doExcel.py:[41] - [INFO] - 单元格值(11,3)文件获取成功，值是：1zhan
+2022-11-29 09:41:50,010 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:41:50,062 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:41:50,173 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:41:50,213 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:41:50,347 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:41:50,379 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:41:50,398 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:41:52,438 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:41:52,457 - basePage.py:[113] - [INFO] - 文本获取成功，值是：用户名或密码错误，请重新输入！
+2022-11-29 09:41:52,458 - test_login.py:[216] - [INFO] - 断言成功
+2022-11-29 09:41:52,967 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:41:53,064 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:41:53,081 - basePage.py:[145] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button')点击成功！
+2022-11-29 09:42:17,430 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000002B3BE11C1C0>，sheet页面<xlrd.sheet.Sheet object at 0x000002B3BE152CD0>打开成功
+2022-11-29 09:42:17,438 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x000002B3BE0869D0>，sheet页面<xlrd.sheet.Sheet object at 0x000002B3BE145280>打开成功
+2022-11-29 09:42:17,438 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-29 09:42:17,438 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-29 09:42:17,438 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：//form/nz-form-item[4]/button
+2022-11-29 09:42:17,439 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:42:17,439 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:42:17,439 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-29 09:42:17,439 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-29 09:42:17,439 - doExcel.py:[41] - [INFO] - 单元格值(1,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:42:17,439 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：1，2|1，3
+2022-11-29 09:42:17,439 - doExcel.py:[41] - [INFO] - 单元格值(2,2)文件获取成功，值是：
+2022-11-29 09:42:17,439 - doExcel.py:[41] - [INFO] - 单元格值(2,3)文件获取成功，值是：
+2022-11-29 09:42:17,439 - doExcel.py:[41] - [INFO] - 单元格值(3,2)文件获取成功，值是：
+2022-11-29 09:42:17,440 - doExcel.py:[41] - [INFO] - 单元格值(3,3)文件获取成功，值是：2000zhang
+2022-11-29 09:42:17,440 - doExcel.py:[41] - [INFO] - 单元格值(4,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:42:17,440 - doExcel.py:[41] - [INFO] - 单元格值(4,3)文件获取成功，值是：
+2022-11-29 09:42:17,440 - doExcel.py:[41] - [INFO] - 单元格值(5,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:42:17,440 - doExcel.py:[41] - [INFO] - 单元格值(5,3)文件获取成功，值是：2000zhang
+2022-11-29 09:42:17,440 - doExcel.py:[41] - [INFO] - 单元格值(6,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:42:17,440 - doExcel.py:[41] - [INFO] - 单元格值(6,3)文件获取成功，值是：2000zha
+2022-11-29 09:42:17,440 - doExcel.py:[41] - [INFO] - 单元格值(7,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:42:17,440 - doExcel.py:[41] - [INFO] - 单元格值(7,3)文件获取成功，值是：2001zha
+2022-11-29 09:42:17,440 - doExcel.py:[41] - [INFO] - 单元格值(8,2)文件获取成功，值是：115555211546789
+2022-11-29 09:42:17,440 - doExcel.py:[41] - [INFO] - 单元格值(8,3)文件获取成功，值是：2000zhang
+2022-11-29 09:42:17,441 - doExcel.py:[41] - [INFO] - 单元格值(9,2)文件获取成功，值是：115555211.0
+2022-11-29 09:42:17,441 - doExcel.py:[41] - [INFO] - 单元格值(9,3)文件获取成功，值是：2000zhang
+2022-11-29 09:42:17,441 - doExcel.py:[41] - [INFO] - 单元格值(10,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:42:17,441 - doExcel.py:[41] - [INFO] - 单元格值(10,3)文件获取成功，值是：200000000002144322523535zhang
+2022-11-29 09:42:17,441 - doExcel.py:[41] - [INFO] - 单元格值(11,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:42:17,441 - doExcel.py:[41] - [INFO] - 单元格值(11,3)文件获取成功，值是：1zhan
+2022-11-29 09:42:28,889 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:42:28,942 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:42:29,077 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:42:29,119 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:42:29,255 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:42:29,291 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:42:29,301 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:42:31,339 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-29 09:42:31,358 - basePage.py:[113] - [INFO] - 文本获取成功，值是：请输入手机号码
+2022-11-29 09:42:31,358 - test_login.py:[200] - [INFO] - 断言成功
+2022-11-29 09:42:31,872 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:42:48,734 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x0000019DC391C1C0>，sheet页面<xlrd.sheet.Sheet object at 0x0000019DC3953CD0>打开成功
+2022-11-29 09:42:48,741 - doExcel.py:[30] - [INFO] - 工作簿<xlrd.book.Book object at 0x0000019DC38869D0>，sheet页面<xlrd.sheet.Sheet object at 0x0000019DC3945250>打开成功
+2022-11-29 09:42:48,741 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-29 09:42:48,741 - doExcel.py:[41] - [INFO] - 单元格值(2,4)文件获取成功，值是：//span//input[@type='password']
+2022-11-29 09:42:48,741 - doExcel.py:[41] - [INFO] - 单元格值(3,4)文件获取成功，值是：//form/nz-form-item[4]/button
+2022-11-29 09:42:48,741 - doExcel.py:[41] - [INFO] - 单元格值(4,4)文件获取成功，值是：//form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:42:48,742 - doExcel.py:[41] - [INFO] - 单元格值(5,4)文件获取成功，值是：//form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-29 09:42:48,742 - doExcel.py:[41] - [INFO] - 单元格值(6,4)文件获取成功，值是：.ant-modal-confirm-title>span
+2022-11-29 09:42:48,742 - doExcel.py:[41] - [INFO] - 单元格值(7,4)文件获取成功，值是：.ant-modal-confirm-btns>button
+2022-11-29 09:42:48,742 - doExcel.py:[41] - [INFO] - 单元格值(1,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:42:48,742 - doExcel.py:[41] - [INFO] - 单元格值(1,4)文件获取成功，值是：1，2|1，3
+2022-11-29 09:42:48,742 - doExcel.py:[41] - [INFO] - 单元格值(2,2)文件获取成功，值是：
+2022-11-29 09:42:48,742 - doExcel.py:[41] - [INFO] - 单元格值(2,3)文件获取成功，值是：
+2022-11-29 09:42:48,742 - doExcel.py:[41] - [INFO] - 单元格值(3,2)文件获取成功，值是：
+2022-11-29 09:42:48,743 - doExcel.py:[41] - [INFO] - 单元格值(3,3)文件获取成功，值是：2000zhang
+2022-11-29 09:42:48,743 - doExcel.py:[41] - [INFO] - 单元格值(4,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:42:48,743 - doExcel.py:[41] - [INFO] - 单元格值(4,3)文件获取成功，值是：
+2022-11-29 09:42:48,743 - doExcel.py:[41] - [INFO] - 单元格值(5,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:42:48,743 - doExcel.py:[41] - [INFO] - 单元格值(5,3)文件获取成功，值是：2000zhang
+2022-11-29 09:42:48,743 - doExcel.py:[41] - [INFO] - 单元格值(6,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:42:48,743 - doExcel.py:[41] - [INFO] - 单元格值(6,3)文件获取成功，值是：2000zha
+2022-11-29 09:42:48,743 - doExcel.py:[41] - [INFO] - 单元格值(7,2)文件获取成功，值是：11555521153.0
+2022-11-29 09:42:48,743 - doExcel.py:[41] - [INFO] - 单元格值(7,3)文件获取成功，值是：2001zha
+2022-11-29 09:42:48,744 - doExcel.py:[41] - [INFO] - 单元格值(8,2)文件获取成功，值是：115555211546789
+2022-11-29 09:42:48,744 - doExcel.py:[41] - [INFO] - 单元格值(8,3)文件获取成功，值是：2000zhang
+2022-11-29 09:42:48,744 - doExcel.py:[41] - [INFO] - 单元格值(9,2)文件获取成功，值是：115555211.0
+2022-11-29 09:42:48,744 - doExcel.py:[41] - [INFO] - 单元格值(9,3)文件获取成功，值是：2000zhang
+2022-11-29 09:42:48,744 - doExcel.py:[41] - [INFO] - 单元格值(10,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:42:48,744 - doExcel.py:[41] - [INFO] - 单元格值(10,3)文件获取成功，值是：200000000002144322523535zhang
+2022-11-29 09:42:48,744 - doExcel.py:[41] - [INFO] - 单元格值(11,2)文件获取成功，值是：15555211512.0
+2022-11-29 09:42:48,744 - doExcel.py:[41] - [INFO] - 单元格值(11,3)文件获取成功，值是：1zhan
+2022-11-29 09:43:20,124 - basePage.py:[64] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-29 09:43:20,183 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-29 09:43:20,311 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:43:20,381 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-29 09:43:20,483 - basePage.py:[98] - [INFO] - 输入内容成功！
+2022-11-29 09:43:20,515 - basePage.py:[80] - [INFO] - 元素定位成功，('xpath', '//form/nz-form-item[4]/button')
+2022-11-29 09:43:20,542 - basePage.py:[145] - [INFO] - 元素('xpath', '//form/nz-form-item[4]/button')点击成功！
+2022-11-29 09:43:22,585 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-29 09:43:22,605 - basePage.py:[113] - [INFO] - 文本获取成功，值是：用户名或密码错误，请重新输入！
+2022-11-29 09:43:25,617 - test_login.py:[181] - [INFO] - 断言成功
+2022-11-29 09:43:26,142 - basePage.py:[129] - [INFO] - 截图成功！
+2022-11-29 09:43:29,187 - basePage.py:[80] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button')
+2022-11-29 09:43:29,272 - basePage.py:[145] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button')点击成功！

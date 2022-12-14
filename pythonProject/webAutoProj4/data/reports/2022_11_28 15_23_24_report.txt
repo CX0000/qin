@@ -1,0 +1,25 @@
+test_login_name_pwd_ok (demo.testCase.test_login.TestLogin) ... ERROR
+test_login_name_pwd_no (demo.testCase.test_login.TestLogin) ... ok
+
+======================================================================
+ERROR: test_login_name_pwd_ok (demo.testCase.test_login.TestLogin)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\pythonCoding\pythonProject\webAutoProj4\demo\testCase\baseUnittest.py", line 35, in setUp
+    self.loginPage.open()
+  File "D:\pythonCoding\pythonProject\webAutoProj4\demo\pageObj\basePage.py", line 69, in open
+    self.driver.maximize_window()
+  File "D:\pythonCoding\webAutoproject\.idea\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 737, in maximize_window
+    self.execute(command, params)
+  File "D:\pythonCoding\webAutoproject\.idea\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\pythonCoding\webAutoproject\.idea\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: failed to change window state to 'normal', current state is 'maximized'
+  (Session info: chrome=105.0.5195.127)
+
+
+----------------------------------------------------------------------
+Ran 2 tests in 55.850s
+
+FAILED (errors=1)

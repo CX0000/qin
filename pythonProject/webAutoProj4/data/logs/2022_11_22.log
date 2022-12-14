@@ -1,0 +1,58 @@
+2022-11-22 14:42:00,800 - basePage.py:[32] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-22 14:42:01,048 - basePage.py:[47] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-22 14:42:01,232 - basePage.py:[63] - [INFO] - 输入内容成功！
+2022-11-22 14:42:01,281 - basePage.py:[47] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-22 14:42:01,408 - basePage.py:[63] - [INFO] - 输入内容成功！
+2022-11-22 14:42:01,438 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-22 14:42:01,539 - basePage.py:[105] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-22 14:54:23,282 - basePage.py:[32] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-22 14:54:23,513 - basePage.py:[47] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-22 14:54:23,585 - basePage.py:[63] - [INFO] - 输入内容成功！
+2022-11-22 14:54:23,632 - basePage.py:[47] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-22 14:54:23,700 - basePage.py:[63] - [INFO] - 输入内容成功！
+2022-11-22 14:54:23,735 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-22 14:54:23,810 - basePage.py:[105] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-22 14:54:23,862 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '.ng-tns-c5-1.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:54:23,887 - basePage.py:[78] - [INFO] - 文本获取成功，值是：请输入手机号码
+2022-11-22 14:54:23,920 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '.ng-tns-c5-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:54:23,943 - basePage.py:[78] - [INFO] - 文本获取成功，值是：请输入6-20位账户密码
+2022-11-22 15:07:50,733 - basePage.py:[32] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-22 15:08:15,505 - basePage.py:[32] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-22 15:08:15,721 - basePage.py:[47] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-22 15:08:15,936 - basePage.py:[63] - [INFO] - 输入内容成功！
+2022-11-22 15:08:15,982 - basePage.py:[47] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-22 15:08:16,129 - basePage.py:[63] - [INFO] - 输入内容成功！
+2022-11-22 15:08:16,160 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-22 15:08:16,245 - basePage.py:[105] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-22 15:08:16,665 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-22 15:08:16,700 - basePage.py:[78] - [INFO] - 文本获取成功，值是：用户名或密码错误，请重新输入！
+2022-11-22 15:08:16,735 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button')
+2022-11-22 15:08:16,800 - basePage.py:[105] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button')点击成功！
+2022-11-22 15:12:17,378 - basePage.py:[32] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-22 15:12:17,577 - basePage.py:[47] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-22 15:12:17,755 - basePage.py:[63] - [INFO] - 输入内容成功！
+2022-11-22 15:12:17,804 - basePage.py:[47] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-22 15:12:17,960 - basePage.py:[63] - [INFO] - 输入内容成功！
+2022-11-22 15:12:17,998 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-22 15:12:18,084 - basePage.py:[105] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-22 15:12:18,503 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-22 15:12:18,534 - basePage.py:[78] - [INFO] - 文本获取成功，值是：用户名或密码错误，请重新输入！
+2022-11-22 15:12:18,592 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button')
+2022-11-22 15:12:18,663 - basePage.py:[105] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button')点击成功！
+2022-11-22 15:16:03,975 - basePage.py:[32] - [INFO] - 未发生异常，页面打开成功！http://139.199.0.102/passport/login
+2022-11-22 15:16:04,166 - basePage.py:[47] - [INFO] - 元素定位成功，('xpath', "//span//input[@placeholder='请输入手机号码']")
+2022-11-22 15:16:04,362 - basePage.py:[63] - [INFO] - 输入内容成功！
+2022-11-22 15:16:04,407 - basePage.py:[47] - [INFO] - 元素定位成功，('xpath', "//span//input[@type='password']")
+2022-11-22 15:16:04,545 - basePage.py:[63] - [INFO] - 输入内容成功！
+2022-11-22 15:16:04,583 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '[type="submit"]')
+2022-11-22 15:16:04,673 - basePage.py:[105] - [INFO] - 元素('css selector', '[type="submit"]')点击成功！
+2022-11-22 15:16:04,943 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-title>span')
+2022-11-22 15:16:04,965 - basePage.py:[78] - [INFO] - 文本获取成功，值是：用户名或密码错误，请重新输入！
+2022-11-22 15:16:05,013 - basePage.py:[47] - [INFO] - 元素定位成功，('css selector', '.ant-modal-confirm-btns>button')
+2022-11-22 15:16:05,083 - basePage.py:[105] - [INFO] - 元素('css selector', '.ant-modal-confirm-btns>button')点击成功！
+2022-11-22 22:29:12,846 - doExcel.py:[35] - [INFO] - 读取文件成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-22 22:35:35,498 - doExcel.py:[26] - [INFO] - 打开成功
+2022-11-22 22:35:35,498 - doExcel.py:[36] - [INFO] - 读取文件成功，值是：//span//input[@placeholder='请输入手机号码']
+2022-11-22 22:36:11,450 - doExcel.py:[26] - [ERROR] - 打开失败
+2022-11-22 22:36:11,450 - doExcel.py:[27] - [INFO] - 打开成功
+2022-11-22 22:36:11,451 - doExcel.py:[37] - [INFO] - 读取文件成功，值是：//span//input[@placeholder='请输入手机号码']
